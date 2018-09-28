@@ -1,0 +1,195 @@
+    1  echo "" > ~/.bash_history
+    2  yes
+    3  sudo apt-get install geany
+    4  sudo apt-get install netbeans
+    5  python
+    6  sudo python3 ppp.py
+    7  top
+    8  sudo python3 ppp.py
+    9  pithon3
+   10  python3
+   11  top
+   12  python3
+   13  sudo apt-get install git
+   14  git clone https://github.com/luirro777/esqueletos
+   15  python3
+   16  cd media/segundo18/
+   17  cd /media/segundo18
+   18  cd KINGSTON4G
+   19  python3
+   20  top
+   21  cd /media/segundo18/KINGSTON4G
+   22  python3
+   23  top
+   24  unzip Practico_Evaluado_1.zip
+   25  pip--version
+   26  sudo apt-get install python3 python3-pip
+   27  pip3--version
+   28  pip3 --version
+   29  pip3 jupiter
+   30  pip3 install jupiter
+   31  pip3 install jupyter
+   32  jupyter notebook
+   33  nosetests tests/test.py
+   34  cd /SISTEMA
+   35  cd SISTEMA
+   36  cd SISTEMAA
+   37  nosetests tests/test.py
+   38  cd
+   39  cd JAVIII
+   40  nosetests tests/test.py
+   41  cd JAVIII
+   42  nosetests tests/test.py
+   43  history > yoni.txt
+   44  yoni.txt
+   45  history.txt
+   46  history > history.txt
+   47  history>history.txt
+   48  cd Descargas
+   49  cd psutilJAVI
+   50  python3
+   51  cd Descargas/PsutilJAVI
+   52  cd Descargas/psutilJAVI
+   53  python3 import PsutilOpcion.py
+   54  python3
+   55  cd Descargas/psutilJAVI
+   56  python3
+   57  cd Descargas/psutilJAVI
+   58  python3
+   59  cd Descargas/psutilJAVI
+   60  python3
+   61  cd Descargas/psutilJAVI
+   62  python3
+   63  cl
+   64  cd Descargas/psutilJAVI
+   65  python3
+   66  cd Descargas/psutilJAVI
+   67  python3
+   68  top
+   69  cd Descargas/psutilJAVI
+   70  python3
+   71  cd Descargas/psutilJAVI
+   72  python3
+   73  cd Descargas/psutilJAVI
+   74  python3
+   75  cd Descargas/psutilJAVI
+   76  python3
+   77  top
+   78  cd Descargas/psutilJAVI
+   79  python3
+   80  cd ..
+   81  python3
+   82  python
+   83  cd
+   84  cd /Descargas
+   85  cd descargas/
+   86  cd Descargas
+   87  python
+   88  cd PracticoGit
+   89  git init
+   90  git config --global user.email "javibautista333@gmail.com"
+   91  git config --global user.name "javibautista"
+   92  git config --global core.editor gedit
+   93  git add PsutilOpcion.py
+   94  git commit -m “Primer commit”
+   95  git commit
+   96  git
+   97  git commit
+   98  git grep
+   99  git logs
+  100  git log
+  101  git commit -m “Primer commit”
+  102  git commit -m 
+  103  git commit -a
+  104  ls
+  105  git add PsutilOpcion.py 
+  106  git commit -m "Hola"
+  107  git commit -m “Primer commit”
+  108  git commit -m "Hola"
+  109  git commit -m "Primer commit"
+  110  git comit
+  111  git commit
+  112  git commit -m "Primer commit"
+  113  git commit
+  114  git add PsutilOpcion.py 
+  115  git commit
+  116  git commit -m "Primer commit"
+  117  git commit -m "Hola"
+  118  git commit -m
+  119  git commit -m-o
+  120  git config --global core.editor gedit
+  121  git commit
+  122  git commit -m--only
+  123  git commit
+  124  git add PsutilOpcion.py 
+  125  git commit
+  126  git commit -m "Primer commit"
+  127  git add PsutilOpcion.py 
+  128  git commit
+  129  git add PsutilOpcion.py 
+  130  git commit
+  131  git add PsutilOpcion.py 
+  132  git init
+  133  git add PsutilOpcion.py 
+  134  git commit
+  135  git config --global core.editor gedit
+  136  git init
+  137  git
+  138  git status
+  139  git rm
+  140  git rm PsutilOpcion.py
+  141  git init
+  142  git config --global user.email "javibautista333@gmail.com"
+  143  git config --global user.name "javibautista"
+  144  git config --global core.editor gedit
+  145  git add PsutilOpcion.py
+  146  git commit
+  147  git commit -a
+  148  git add PsutilOpcion.py
+  149  git commit
+  150  rm PsutilOpcion.py~
+  151  git commit
+  152  ls
+  153  git add PsutilOpcion.py 
+  154  git commit -m 
+  155  git commit -m "hola"
+  156  history > historrrr.txt
+  157  sudo add-apt-repository ppa:webupd8team/java
+  158  sudo apt-get update
+  159  sudo apt-get install oracle-java8-installer
+  160  sudo update-java-alternatives -s java-8-oracle
+  161  sudo apt-get install oracle-java8-set-default
+  162  cd Descargas
+  163  ./netbeans-8.2-linux.sh
+  164  sudo ./netbeans-8.2-linux.sh
+  165  cd
+  166  cd  /usr/lib/jvm
+  167  cd Java-8-oracle
+  168  ls -l
+  169  python
+  170  top
+  171  jupyter --version
+  172  sudo pip3 install numpy
+  173  numpy --version
+  174  sudo apt update
+  175  sudo apt-get install virtualbox-qt
+  176  history > ultimohistory.txt
+  177  sudo pip3 install numpy
+  178  sudo pip3 install matplotlib
+  179  python3
+  180  cd jupyter
+  181  mkdir jupyter
+  182  cd jupyter
+  183  jupyter notebook
+  184  history
+  185  numpy --version
+  186  jupyter --version
+  187  jupyter notebook
+  188  cd jupyter
+  189  jupyter notebook
+  190  exit()
+  191  python manage.py startapp blog
+  192  python manage.py makemigrations blog
+  193  python manage.py migrate blog
+  194  python manage.py createsuperuser
+  195  history > history_DJANGO.txt
